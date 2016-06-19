@@ -1,0 +1,6 @@
+To know status git add
+
+Add all - git add -u
+
+Commit - 
+
